@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumita1234&label=Profile%20views&color=0e75b6&style=flat" alt="soumita1234" /> </p>
 
-- 🔭 I’m currently studing in **3rd year**
+- 🔭 **I’m currently studing in 3rd year**
 
-- 🌱 I’m currently learning **react and django**
+- 🌱 **I’m currently learning react and django**
 
-- 👯 I’m looking to collaborate on **my projects**
+- 👯 **I’m looking to collaborate on my projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/soumita1234](https://github.com/soumita1234)
+- 👨‍💻 **All of my projects are available at [https://github.com/soumita1234](https://github.com/soumita1234)**
 
-- 💬 Ask me about **tech and i would like to ans as per my knowledge**
+- 💬 **Ask me about tech and i would like to ans as per my knowledge**
 
-- 📫 How to reach me **sb2253@it.jgec.ac.in**
+- 📫 **How to reach me sb2253@it.jgec.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
