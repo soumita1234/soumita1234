@@ -1,9 +1,29 @@
-### Hello!! I Am Soumita Biswas 👋
+<h1 align="center">Hi 👋, I'm Soumita Biswas</h1>
+<h3 align="center">Web Developer||Coder||Learner</h3>
 
-- 🔭 I’m currently studing in 3rd year
-- 🌱 I’m currently learning react and django
-- 👯 I’m looking to collaborate on my projects
-- 🤔 I’m looking for SDE internsip/fulltime offer opportunities
-- 💬 Ask me tech and I would like to answer as per my knowledge.
-- 📫 How to reach me-> sb2253@it.jgec.ac.in
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumita1234&label=Profile%20views&color=0e75b6&style=flat" alt="soumita1234" /> </p>
+
+- 🔭 I’m currently studing in **3rd year**
+
+- 🌱 I’m currently learning **react and django**
+
+- 👯 I’m looking to collaborate on **my projects**
+
+- 👨‍💻 All of my projects are available at [https://github.com/soumita1234](https://github.com/soumita1234)
+
+- 💬 Ask me about **tech and i would like to ans as per my knowledge**
+
+- 📫 How to reach me **sb2253@it.jgec.ac.in**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://codepen.io/liya21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="liya21" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/soumita-biswas-88b0941ab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/soumita-biswas-88b0941ab" height="30" width="40" /></a>
+<a href="https://instagram.com/_.soumita._" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_.soumita._" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumita1234&show_icons=true&locale=en&layout=compact" alt="soumita1234" /></p>
 
