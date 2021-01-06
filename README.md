@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Soumita Biswas👋</h1>
 <h3 align="center">_*_CODE FOR CREATION_*_</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumita1234&label=Profile%20views&color=0e75b6&style=flat" alt="soumita1234" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumita1234&label=Github%20Scores&color=0e75b6&style=flat" alt="soumita1234" /> </p>
 
 - 🔭 **I’m currently studing in 3rd year**
 
