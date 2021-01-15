@@ -2,7 +2,7 @@
 <h3 align="center">_*_CODE FOR CREATION_*_</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumita1234&label=Github%20Score&color=0e75b6&style=flat" alt="soumita1234" /> </p>
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/2413754/attachments/2413754-Coding?mode=media">
+
 
 
 - 🔭 **I’m currently studing in 3rd year**
