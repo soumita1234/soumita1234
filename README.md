@@ -12,7 +12,6 @@
 
 - 👨‍💻 **All of my projects are available at [https://github.com/soumita1234](https://github.com/soumita1234)**
 
-- 💬 **Ask me about anything and i would like to ans as per my knowledge**
 
 - 📫 **How to reach me sb2253@it.jgec.ac.in**
 
