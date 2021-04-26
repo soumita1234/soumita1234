@@ -6,7 +6,7 @@
 
 - 🔭 **I’m currently studing in 3rd year**
 
-- 🌱 **I’m currently learning algorithms**
+- 🌱 **I’m currently learning everything**
 
 - 👯 **I’m looking to collaborate on my projects**
 
