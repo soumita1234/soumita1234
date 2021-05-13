@@ -20,7 +20,7 @@
 <a href="https://codepen.io/liya21" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="liya21" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/soumita-biswas-88b0941ab" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/soumita-biswas-88b0941ab" height="30" width="40" /></a>
 <a href="https://instagram.com/_.soumita._" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_.soumita._" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/soumita_1234" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/soumita_1234" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/soumita_1234" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://https://www.codechef.com/users/soumita_1234" height="30" width="40" /></a>
 
 
 <h3 align="left">Languages and Tools:</h3>
