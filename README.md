@@ -4,16 +4,16 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumita1234&label=Github%20Score&color=0e75b6&style=flat" alt="soumita1234" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 🔭 **I’m currently studing in 3rd year**
+- 🔭 **I’m an undergrad B.Tech IT student from WB**
 
-- 🌱 **I’m currently learning everything**
+- 🌱 **Currently learning React & Redux**
 
 - 👯 **I’m looking to collaborate on my projects**
 
-- 👨‍💻 **All of my projects are available at [https://github.com/soumita1234](https://github.com/soumita1234)**
+- 👨‍💻 **All of my projects are available at [here](https://github.com/soumita1234)**
 
 
-- 📫 **How to reach me sb2253@it.jgec.ac.in**
+- 📫 **Reach me at [here](sb2253@it.jgec.ac.in)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
