@@ -10,10 +10,10 @@
 
 - 👯 **I’m looking to collaborate on my projects**
 
-- 👨‍💻 **All of my projects are available at [here](https://github.com/soumita1234)**
+- 👨‍💻 **All of my projects are available at [here](https://github.com/soumita1234?tab=repositories)**
 
 
-- 📫 **Reach me at [here](sb2253@it.jgec.ac.in)**
+- 📫 **Reach me at sb2253@it.jgec.ac.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
