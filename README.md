@@ -9,7 +9,7 @@
 
 - 👩‍💻 **Currently learning React & Redux**
 
-- 👯 **I’m looking to collaborate on my projects**
+- 🤝 **I’m looking to collaborate on my projects**
 
 - 💁‍♀️ **All of my projects are available at [here](https://github.com/soumita1234?tab=repositories)**
 
