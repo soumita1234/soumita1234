@@ -1,16 +1,17 @@
 <h1 align="center">Hello, I'm Soumita👋</h1>
+<h4 align="center">A Developer From India❤️</h4>
 <h3 align="center">_*_CODE FOR CREATION_*_</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumita1234&label=Github%20Score&color=0e75b6&style=flat" alt="soumita1234" /> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-- 🔭 **I’m an undergrad B.Tech IT student from WB**
+- 🙋‍♀️ **I’m an undergrad B.Tech IT student from WB**
 
-- 🌱 **Currently learning React & Redux**
+- 👩‍💻 **Currently learning React & Redux**
 
 - 👯 **I’m looking to collaborate on my projects**
 
-- 👨‍💻 **All of my projects are available at [here](https://github.com/soumita1234?tab=repositories)**
+- 💁‍♀️ **All of my projects are available at [here](https://github.com/soumita1234?tab=repositories)**
 
 
 - 📫 **Reach me at sb2253@it.jgec.ac.in**
