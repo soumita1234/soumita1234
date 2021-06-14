@@ -1,5 +1,5 @@
 <h1 align="center">Hayaa, I'm Soumita<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"></h1>
-<h4 align="center">A Developer From India❤️</h4>
+
 <h3 align="center">_*_CODE FOR CREATION_*_</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumita1234&label=Github%20Score&color=0e75b6&style=flat" alt="soumita1234" /> </p>
