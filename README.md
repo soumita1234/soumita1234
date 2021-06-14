@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Soumita👋</h1>
+<h1 align="center">Hayaa, I'm Soumita<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h4 align="center">A Developer From India❤️</h4>
 <h3 align="center">_*_CODE FOR CREATION_*_</h3>
 
