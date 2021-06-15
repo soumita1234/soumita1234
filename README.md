@@ -1,9 +1,12 @@
 <h1 align="center">Hayaa, I'm Soumita<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"></h1>
 
+
+
+
 <h3 align="center">_*_CODE FOR CREATION_*_</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=soumita1234&label=Github%20Score&color=0e75b6&style=flat" alt="soumita1234" /> </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/58908901/122036958-be647880-cdf1-11eb-958c-ae52f9bb13a4.gif">
 
 - 🙋‍♀️ **I’m an undergrad B.Tech IT student from WB**
 
