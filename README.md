@@ -18,6 +18,8 @@
 
 
 - 📫 **Reach me at sb2253@it.jgec.ac.in**
+- <img src="https://metrics.lecoq.io/soumita1234?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&config.timezone=Asia%2FCalcutta&config.animated=true" alt="" width="300">
+
 
 <h3 align="left">✔️Connect with me:</h3>
 <p align="left">
