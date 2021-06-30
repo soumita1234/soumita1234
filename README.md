@@ -37,10 +37,11 @@
 
 
 
+
 <img alt="My Github stats" align="center" border-radius="40px" width="1000px" height="200px" src="https://github-readme-stats.vercel.app/api?username=soumita1234&count_private=true&show_icons=true&hide_border=false&theme=default" href="https://github.com/soumita1234"/>
 
 
-<img alt="My Github stats" align="center" border-radius="40px" width="1000px" height="200px" src="https://github-readme-streak-stats.herokuapp.com/?user=soumita1234&layout=compact" alt="saurav-skl" />
+<img alt="My Github stats" align="center" border-radius="40px" width="1000px" height="200px" src="https://github-readme-streak-stats.herokuapp.com?user=soumita1234&ring=82DD41&fire=F8FF22" alt="saurav-skl" />
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 
 
