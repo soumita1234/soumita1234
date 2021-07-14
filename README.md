@@ -1,5 +1,8 @@
-<h1 align="center">Hayaa, I'm Soumita<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"></h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=soumita1234&label=Profile%20Score&color=0e75b6&style=flat" alt="soumita1234" /> </p>
+
+
+<h1 align="center">Hayaa, I'm Soumita<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"></h1>
 
 
 
