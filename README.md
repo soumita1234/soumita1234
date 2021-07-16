@@ -11,7 +11,7 @@
 
 <img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/58908901/125813051-be442ee6-bece-4c1d-9c45-bfcf9dc89f4a.gif">
 
-- 🙋‍♀️ **I’m an undergrad B.Tech IT student from WB**
+- 🙋‍♀️ **I’m an Engineering student from WB**
 
 - 👩‍💻 **Currently learning React & Redux**
 
